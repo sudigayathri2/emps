@@ -10,5 +10,4 @@ public class EmployeeProfileManagementApplication {
         SpringApplication.run(EmployeeProfileManagementApplication.class, args);
         System.out.println("Tomcat Running For EmployeeProfile Management Service. Demo for CSBS");
     }
-
 }
